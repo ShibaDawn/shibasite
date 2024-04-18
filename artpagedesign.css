@@ -1,0 +1,40 @@
+h3 {text-align: center;}
+h2 {text-align: center;}
+div.homepage {display: block;  text-align: center;}
+div.experience {text-align: center;}
+ul.listex {display: inline-block; text-align: left;}
+p {width: 700px; margin: 0 auto; text-align: center; font-family: 'Times New Roman', Times, serif; text-wrap: balance;} 
+body {
+    background-color: 	#d6c8c1; min-height: 100%; border-style: solid;
+    border-width: 1px 10px;
+    border-color: #9fb8a8;
+    height: auto;
+    margin: 0;
+
+}
+.navbar {background-color: #9fb8a8;
+  overflow: hidden;}
+  .navtop {background-color: #91aa9a;
+    overflow: hidden;}
+  .navbar a {float:left; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;}
+  .navbar a:hover {background-color: cadetblue; color: black;}
+  .navbar a.active {background-color: #b8a89f; color: aliceblue;}
+html {
+    height: 100%;
+}
+
+  .gallerygrid img:hover {transform: scale(1.5); position: relative; z-index:10;}
+  .gallerygrid img {display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    width:15%;}
+    .gallerygrid {text-align: center;}
+      .gallerygrid2 img:hover {transform: scale(1.5); position: relative; z-index:10;}
+      .gallerygrid2 img {display: inline-block;
+        margin-right: auto;
+        margin-left: auto;
+        width:15%;}
+        .gallerygrid2 {text-align: center;}
+img.logoN {
+    width:6%;
+  }
