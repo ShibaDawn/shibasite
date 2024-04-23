@@ -2,9 +2,9 @@ h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {text-align: center;}
 h4 {text-align: center;}
-p {width: 700px; margin: 0 auto; text-align: center; font-family: 'Aldrich', 'Times New Roman', Times, serif; text-wrap: balance;} 
+p {width: 700px; margin: 0 auto; text-align: center; text-wrap: balance;} 
 body {
-    background-color: 	#d6c8c1; min-height: 100%;
+    background-color: 	#d6c8c1; min-height: 100%; font-weight: 700; font-family:'Concert One', 'Micro 5', 'Times New Roman', Times, serif; 
 }
 .VG{
         background-color: 	#aa9f8e; border-color: #91aa9a; border-style: solid; border-width: 5px; width: 800px; margin: 0px auto;}

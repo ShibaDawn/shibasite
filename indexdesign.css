@@ -5,9 +5,9 @@ h4 {text-align: center;}
 .homep {display: block; text-align: center;}
 div.experience {text-align: center;}
 ul.listex {display: inline-block; text-align: left;}
-p {width: 700px; margin: 0 auto; text-align: center; font-family: 'Times New Roman', Times, serif; text-wrap: balance;} 
+p {width: 700px; margin: 0 auto; text-align: center; text-wrap: balance;} 
 body {
-    background-color: 	#d6c8c1; min-height: 100%;
+    background-color: 	#d6c8c1; min-height: 100%; font-weight: 700; font-family:'Concert One', 'Micro 5', 'Times New Roman', Times, serif;
 }
 html {
     height: 100%;

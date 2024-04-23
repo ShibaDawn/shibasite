@@ -3,8 +3,10 @@ h2 {text-align: center;}
 div.homepage {display: block;  text-align: center;}
 div.experience {text-align: center;}
 ul.listex {display: inline-block; text-align: left;}
-p {width: 700px; margin: 0 auto; text-align: center; font-family: 'Times New Roman', Times, serif; text-wrap: balance;} 
+p {width: 700px; margin: 0 auto; text-align: center; text-wrap: balance;} 
 body {
+    font-weight: 700; 
+    font-family: 'Concert One', 'Times New Roman', Times, serif;
     background-color: 	#d6c8c1; min-height: 100%; border-style: solid;
     border-width: 1px 10px;
     border-color: #9fb8a8;
