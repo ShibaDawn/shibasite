@@ -1,14 +1,13 @@
-
+h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {text-align: center;}
 h4 {text-align: center;}
-.homep {display: block; text-align: center;}
-div.experience {text-align: center;}
-ul.listex {display: inline-block; text-align: left;}
-p {width: 700px; margin: 0 auto; text-align: center; font-family: 'Times New Roman', Times, serif; text-wrap: balance;} 
+p {width: 700px; margin: 0 auto; text-align: center; font-family: Aldritch 'Times New Roman', Times, serif; text-wrap: balance;} 
 body {
     background-color: 	#d6c8c1; min-height: 100%;
 }
+.VG{
+        background-color: 	#aa9f8e; border-color: #91aa9a; border-style: solid; border-width: 5px; width: 800px; margin: 0px auto;}
 html {
     height: 100%;
 }
@@ -26,14 +25,14 @@ body {
     margin: 0;
 
     }
-div.GOSLI {text-align: center;}
-img.GOSL {
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    width:20%;
-  }
-img.logoN {
-    width:5%;
-  }
-  
+    img.logoN {
+        width:5%;
+      }
+    div.slay {text-align: center;}
+      img.slaythespire {
+          display: inline-block;
+          margin-right: auto;
+          margin-left: auto;
+          width:120px;
+        }
+.flex-container {display: flex; flex-direction: row; justify-content: center; margin: 0;}
