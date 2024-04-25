@@ -18,7 +18,7 @@ body {
 }
 
 .VG{
-  background-color: #aa9f8e; 
+  background-color: #b3c9bb; 
   border-color: #91aa9a; 
   border-style: solid; 
   border-width: 5px; 
@@ -34,7 +34,7 @@ html {
 .navtop {background-color: #91aa9a;}
 .navbar a {float:left; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;}
 .navbar a:hover {background-color: cadetblue; color: black;}
-.navbar a.active {background-color: #b8a89f; color: aliceblue;}
+.navbar a.active {background-color: #91aa9a; color: aliceblue;}
 
 
 body {
