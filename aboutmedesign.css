@@ -82,6 +82,7 @@ img.slaythespire {
   justify-content: center;
   width: 200px;
   height: 320px;
+  border-style: solid;
 }
 .right {
   margin-left:auto ;
