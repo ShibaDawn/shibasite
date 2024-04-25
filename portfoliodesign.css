@@ -15,11 +15,13 @@ html {
 
     }
 div.links {text-align: center;}
-.navbar {background-color: #9fb8a8; overflow: hidden;}
-.navtop {background-color: #91aa9a; overflow: hidden;}
+
+.nav {background-color: #9fb8a8; overflow: hidden;}
+.navtop {background-color: #91aa9a;}
 .navbar a {float:left; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;}
 .navbar a:hover {background-color: cadetblue; color: black;}
 .navbar a.active {background-color: #b8a89f; color: aliceblue;}
+
 img.music{
     display: inline-block;
     margin-right: auto;
@@ -41,3 +43,24 @@ img.artg{
 img.logoN {
     width:5%;
   }
+
+.links{
+    background-color: #aa9f8e; 
+    border-color: #91aa9a; 
+    border-style: solid; 
+    border-width: 5px; 
+    width: 200px; 
+    margin: 0px auto;
+  }
+  .IEL {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    margin: 0;
+  }
+.right {
+    margin-left:auto ;
+    width: 10px;
+    margin-right: 50px;
+}
+  
