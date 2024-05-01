@@ -1,112 +1,4 @@
-h2 {
-    text-align: center;
-}
-p {
-    width: 700px; 
-    margin: 0 auto; 
-    text-align: center; 
-    text-wrap: balance;
-} 
-body {
-    background-color:#d6c8c1; 
-    min-height: 100%; 
-    font-weight: 700; 
-    font-family:'Concert One', 'Micro 5', 'Times New Roman', Times, serif;
-    height: auto;
-    margin: 0;
-}
-html {
-    height: 100%;
-}
 div.links {text-align: center;}
-
-.nav {
-    background-color: #9fb8a8; 
-    overflow: hidden;
-}
-.navtop {
-    background-color: #91aa9a;
-}
-.navbar a {
-    float:left; 
-    color: black; 
-    text-align: center; 
-    padding: 14px 16px; 
-    text-decoration: none; 
-    font-size: 17px;
-}
-.navbar a:hover {
-    background-color: cadetblue; 
-    color: black;
-}
-.navbar a.active {
-    background-color: #91aa9a; 
-    color: aliceblue;
-}
-
-.dropdown {
-    float: left;
-    overflow: hidden;}
-
-.dropdown .dropbtn {
-    font-size: 17px;
-    border: none;
-    outline: none;
-    color: rgb(0, 0, 0);
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: 'Concert One';
-    margin: 0;}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #9fb8a8;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    top: 108px;
-}
-
-.dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-    
-}
-
-.dropdown-content a:hover {
-background-color: cadetblue;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-img.music{
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    width:9%;
-}
-img.figma{
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    width:20%;
-}
-img.artg{
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    width:15%;
-}
-img.logoN {
-    width:60px;
-  }
 
 .links{
     background-color: #b3c9bb; 
@@ -122,11 +14,7 @@ img.logoN {
     justify-content: center; 
     margin: 0;
   }
-.right {
-    margin-left:auto ;
-    width: 10px;
-    margin-right: 50px;
-}
+
 
 .butun a:hover {
     background-color: cadetblue; 
