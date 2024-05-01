@@ -1,21 +1,49 @@
 h2 {text-align: center;}
 h3 {text-align: center;}
 h4 {text-align: center;}
-p {width: 700px; margin: 0 auto; text-align: center; text-wrap: balance;}
+p {
+    width: 700px; 
+    margin: 0 auto; 
+    text-align: center; 
+    text-wrap: balance;
+}
 body {
-    background-color: 	#d6c8c1; min-height: 100%; font-weight: 700; font-family:'Concert One','Times New Roman', Times, serif;
-    margin: 0; width: 100vw; height: 100vh;
+    background-color: 	#d6c8c1; 
+    min-height: 100%; 
+    font-weight: 700; 
+    font-family:'Concert One','Times New Roman', Times, serif;
+    margin: 0; 
+    width: 100vw; 
+    height: 100vh;
 }
 html {
     height: 100%;
 }
 
 
-.nav {background-color: #9fb8a8; overflow: hidden;}
-.navtop {background-color: #91aa9a;}
-.navbar a {float:left; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;}
-.navbar a:hover {background-color: cadetblue; color: black;}
-.navbar a.active {background-color: #91aa9a; color: aliceblue;}
+.nav {
+    background-color: #9fb8a8; 
+    overflow: hidden;
+}
+.navtop {
+    background-color: #91aa9a;
+}
+.navbar a {
+    float:left; 
+    color: black; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    font-size: 17px;
+}
+.navbar a:hover {
+    background-color: cadetblue; 
+    color: black;
+}
+.navbar a.active {
+    background-color: #91aa9a; 
+    color: aliceblue;
+}
 
 .dropdown {
     float: left;
