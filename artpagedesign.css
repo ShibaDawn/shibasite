@@ -30,3 +30,10 @@ img.logoN {
   width: 10px;
   margin-right: 50px;
 }
+div.GOSLI {text-align: center;}
+img.GOSL {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    width:20%;
+  }
