@@ -7,9 +7,8 @@ p {width: 700px; margin: 0 auto; text-align: center; text-wrap: balance;}
 body {
     font-weight: 700; 
     font-family: 'Concert One', 'Times New Roman', Times, serif;
-    background-color: 	#d6c8c1; min-height: 100%; border-style: solid;
-    border-width: 1px 10px;
-    border-color: #9fb8a8;
+    background-color: 	#d6c8c1; 
+    min-height: 100%; 
     height: auto;
     margin: 0;
 
@@ -19,6 +18,48 @@ body {
 .navbar a {float:left; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px;}
 .navbar a:hover {background-color: cadetblue; color: black;}
 .navbar a.active {background-color: #91aa9a; color: aliceblue;}
+
+.dropdown {
+  float: left;
+  overflow: hidden;}
+
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: 'Concert One';
+  margin: 0;}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #9fb8a8;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  top: 108px;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  
+}
+
+.dropdown-content a:hover {
+  background-color: cadetblue;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 
 html {
     height: 100%;
@@ -37,7 +78,7 @@ html {
         width:15%;}
         .gallerygrid2 {text-align: center;}
 img.logoN {
-    width:5%;
+  width:60px;
   }
   .right {
     margin-left:auto ;

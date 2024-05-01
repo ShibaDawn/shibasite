@@ -8,3 +8,4 @@ ourImage.addEventListener("click", function() {
     counter = 1;
   }
 });
+
