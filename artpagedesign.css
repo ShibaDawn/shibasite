@@ -16,12 +16,12 @@ p {
   text-wrap: balance;
 } 
 body {
-    font-weight: 700; 
-    font-family: 'Concert One', 'Times New Roman', Times, serif;
-    background-color: 	#d6c8c1; 
-    min-height: 100%; 
-    height: auto;
-    margin: 0;
+  font-weight: 700; 
+  font-family: 'Concert One', 'Times New Roman', Times, serif;
+  background-color: 	#d6c8c1; 
+  min-height: 100%; 
+  height: auto;
+  margin: 0;
 
 }
 .nav {
